@@ -11,9 +11,11 @@ All of software, firmware written by me are licensed under GPL 3.0.
 Additional incorporated open sourced code are under their own licenses.
 
 Hardware is licensed under CC BY-4.0
+
 https://creativecommons.org/licenses/by/4.0/
 
 Compilers:
+
 Pelles C compiler (freeware): http://www.smorgasbordet.com/pellesc/
 
 Keil's free-to-use professional tool suite - MDK for STM32L0 and STM32F0
