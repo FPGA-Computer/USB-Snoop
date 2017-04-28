@@ -4,7 +4,9 @@ A low cost hardware dongle for capturing and analyzing Full Speed (12Mbps) traff
 Project detail: https://hackaday.io/project/20532-usb-packet-snooping
 
 Firmware/ - dongle firmware - Keil MDK
+
 Hardware/ - Eagle CAD schematic, PCB, Sketchup 3D model (zipped)
+
 Windows Software/ - Pellec C
 
 All of software, firmware written by me are licensed under GPL 3.0.
