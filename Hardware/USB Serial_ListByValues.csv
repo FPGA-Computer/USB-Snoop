@@ -10,7 +10,7 @@ Qty,Value,Part Num,Package,Parts,Note
 2,22pF,22PF 0603,CAPC1608X92N,"C1, C2",Not needed for PL2303HXD
 1,24LC02,24LC02,TSSOP8,U2,Not needed for PL2303HXD
 1,PL2303HX,PL-2303HXD SSOP,SSOP28DB,U1,
-1,,PCB,,,https://oshpark.com/shared_projects/V03I6PaO
+1,,PCB,,,https://oshpark.com/shared_projects/XUkCYeOm
 1,,M1.6 x 12mm screw (DIN912),,,
 1,,M1.6 nut (DIN934 M1.6),,,
-1,,"0.25"" standoff, 1.6mm ID, 3mm OD",,,
+1,,"0.25"" standoff, 1.6mm ID, 3mm OD",,,Determined by stacking height of 2mm connectors
